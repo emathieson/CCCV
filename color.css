@@ -1,0 +1,40 @@
+a:hover {
+    color: rgb(124, 156, 175) !important;
+  }
+
+.accordion {
+    background-color:rgb(241, 234, 231);
+}
+
+.active, .accordion:hover {
+    background-color: #374E5B;
+    color: lightgrey;
+  }
+
+  .panel {
+    background-color:rgb(241, 234, 231);
+  }
+
+  #big {
+    background-color: rgb(202, 202, 202);
+  }
+
+  #monitor {
+    background-color: #253A46;
+  }
+
+  #rightSide {
+    background-color: #647c74;
+    border-bottom: solid 6px #647c74;
+    border-top: solid 6px #647c74;
+  }
+
+  h2 {
+    background-color: #374E5B;
+  }
+
+  ::-webkit-scrollbar-thumb {
+  background-color:rgba(241, 234, 231, 0.2);
+  }
+
+  
